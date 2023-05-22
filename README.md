@@ -3,6 +3,10 @@
 No.control: 20210549
 
 ```python
+
+# Benitez Solorzano Paola
+# Codigo de ChatGPT
+
 import json
 import os
 import ssl
