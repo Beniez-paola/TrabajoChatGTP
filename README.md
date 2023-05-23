@@ -66,7 +66,7 @@ from adafruit_ticks import ticks_add, ticks_less, ticks_ms
 # Invent and vividly describe an alien species. write one paragraph
 
 prompt=os.getenv("MY_PROMPT", """
-Hola chatGPT, Cuentame un dato curioso de un animal""").strip()
+Hola chatGPT, Cuentame un dato curioso historico""").strip()
 please_wait=os.getenv("Por favor, Espera un momento", """
 Buscando....
 """).strip()
